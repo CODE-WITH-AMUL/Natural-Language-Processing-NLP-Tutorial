@@ -1,0 +1,16 @@
+INTRODUCTION.
+NLP :- NLP stand for Natural Language Processing model which is the branch of AI which convert Machine Languge into human lanaguge 
+
+* Application of NLP :
+1) Voice Assistance 
+2) Google Translatio , Google Docs etc ..
+
+
+* There are Two components of NPL 
+1) NLU 
+
+NLU stands for Natural Language Understanding 
+
+2) NLG 
+
+NLG stands fro NAtural Language Generation 
